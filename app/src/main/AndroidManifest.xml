@@ -5,6 +5,7 @@
 
     <application
         android:allowBackup="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
         tools:ignore="GoogleAppIndexingWarning">
 
         <!-- The one and only activity. -->
